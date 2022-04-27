@@ -1,11 +1,9 @@
 #!/bin/python
-from operator import eq
 import sys,os
 import time
 
 #Dependancies LIB
 import openpyxl as lib
-from openpyxl import load_workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
 #test_acl.xlsx
