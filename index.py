@@ -1,5 +1,4 @@
-#!/home/kels/Documents/projects/netAutomation/readExcelAssest/readExcel/bin/python
-#the above sources library from virtual environment
+#!/bin/python
 from operator import eq
 import sys,os
 import time
